@@ -1,0 +1,19 @@
+<div id="container">
+    <header>
+      <h1>Portfolio photography</h1>
+    </header>
+  
+    <div id="sidebar">
+  <ul>
+    <li><a href="#" [class.active]="currentCategory === 'all'" (click)="filterImagesByCategory('all')">Todo</a></li>
+    <li><a href="#" [class.active]="currentCategory === 'distopia'" (click)="filterImagesByCategory('distopia')">Distopía</a></li>
+    <li><a href="#" [class.active]="currentCategory === 'natura'" (click)="filterImagesByCategory('natura')">Natura</a></li>
+    <li><a href="#" [class.active]="currentCategory === 'resilencia'" (click)="filterImagesByCategory('resilencia')">Resilencia</a></li>
+  </ul>
+</div>
+  
+    <section id="photo-container"></section>
+  
+  </div>
+  
+  <footer>&copy; Alba Rubinat</footer>
