@@ -1,30 +1,44 @@
-Esto es unicamente el archivo comprimido de todo el proyecto con carpeta /src, para poder visualizarlo se debe realizar el ng deploy como se explica en los comandos de Angular de otros repositorios.
+# Portfolio 📸
 
+**Portfolio** is a responsive personal photographic portfolio built with **Angular**. It features animated sections and smooth transitions to showcase your work elegantly across all devices. ✨
 
-# PortfolioImg
+---
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
+## Features 🚀
 
-## Development server
+- 📱 Fully responsive design for mobile, tablet, and desktop  
+- 🎨 Animated sections to highlight content dynamically  
+- 🔄 Smooth page transitions for better user experience  
+- ⚙️ Easy to customize and extend
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+---
 
-## Code scaffolding
+## Technologies 🛠️
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Angular  
+- TypeScript  
+- CSS3 / SCSS  
 
-## Build
+---
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Installation 💻
 
-## Running unit tests
+Clone the repository and run the project locally:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+```bash
+git clone https://github.com/tu-usuario/portfolio.git
+cd portfolio
+npm install
+ng serve
+```
+🌐 Open your browser at http://localhost:4200 to see the app in action. 
 
-## Running end-to-end tests
+---
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## 🛠️ Contributing
+Contributions are welcome! If you find a bug or have an idea for an enhancement, please open an issue or submit a pull request.
+If you find this app useful, consider giving the repository a star! ✨
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## 📄 License
+This project is licensed under the MIT License.
+© 2023 [rarubinat](https://github.com/rarubinat)
