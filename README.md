@@ -2,8 +2,6 @@
 
 **Portfolio** is a responsive personal photographic portfolio built with **Angular**. It features animated sections and smooth transitions to showcase your work elegantly across all devices. ✨
 
----
-
 ## Features 🚀
 
 - 📱 Fully responsive design for mobile, tablet, and desktop  
@@ -11,15 +9,11 @@
 - 🔄 Smooth page transitions for better user experience  
 - ⚙️ Easy to customize and extend
 
----
-
 ## Technologies 🛠️
 
 - Angular  
 - TypeScript  
 - CSS3 / SCSS  
-
----
 
 ## Installation 💻
 
